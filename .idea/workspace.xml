@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d3d5c3e-ae7e-4376-8d89-64915f35436f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/padroes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/CadeiraArtDeco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/CadeiraModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/CadeiraVitoriana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/FabricaCadeira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/FabricaMesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/FabricaSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Logistica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MesaArtDeco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MesaModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MesaVitoriana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Movel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/MovelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/SofaArtDeco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/SofaModerno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/SofaVitoriano.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UzuD2B3XoH0UNrDdZTT5QAdk4Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/junior.teixeira_quer/udemy/java/padroes"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aplication.Main" />
+      <module name="padroes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3d5c3e-ae7e-4376-8d89-64915f35436f" name="Changes" comment="" />
+      <created>1693954608859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693954608859</updated>
+    </task>
+    <servers />
+  </component>
+</project>
