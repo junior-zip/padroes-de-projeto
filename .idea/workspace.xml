@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d3d5c3e-ae7e-4376-8d89-64915f35436f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Aplication/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/LogSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/Aplication/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/Cadeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/Cadeira2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraArtDeco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraArtDeco2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraModerna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraModerna2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraVitoriana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/CadeiraVitoriana2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelArtDeco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelArtDeco2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelModerno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelModerno2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelVitoriano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/FabricaMovelVitoriano2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/Mesa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/Mesa2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/MesaArtDeco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/MesaArtDeco2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/MesaModerna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/MesaModerna2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/MesaVitoriana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/MesaVitoriana2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/Movel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/Movel2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/MovelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/MovelFactory2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/Sofa2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/SofaArtDeco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/SofaArtDeco2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/SofaModerno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/SofaModerno2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractFactory/entities/SofaVitoriano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractFactory/entities/SofaVitoriano2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,7 +42,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/junior.teixeira_quer/udemy/java/padroes&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Cliente" />
+      <module name="padroes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -77,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
