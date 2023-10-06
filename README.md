@@ -20,6 +20,8 @@
 - Commit 3 - Abstract Factory
 
 - Commit 5 - Singleton
+
+- Commit 9 - Prototype
 ## Referência
 
  - [Refactoryng Guru](https://refactoring.guru/pt-br/design-patterns/java)
