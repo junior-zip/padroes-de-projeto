@@ -17,13 +17,15 @@
 
 - Commit 2 - União (Abstract Factory e Factory Method )
 
-- Commit 3 - Abstract Factory 
+- Commit 3 - Abstract Factory
+
+- Commit 5 - Singleton
 ## Referência
 
  - [Refactoryng Guru](https://refactoring.guru/pt-br/design-patterns/java)
  - [Factory method](https://refactoring.guru/pt-br/design-patterns/factory-method)
  - [Abstract Factory](https://refactoring.guru/pt-br/design-patterns/abstract-factory)
-
+ - [Singleton](https://refactoring.guru/pt-br/design-patterns/abstract-factory(https://refactoring.guru/pt-br/design-patterns/singleton))
 
 ## Suporte
 
